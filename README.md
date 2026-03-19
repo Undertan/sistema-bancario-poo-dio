@@ -27,8 +27,7 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 ### Diagrama de Classes (UML fornecido no desafio)
 
-![Diagrama UML do Sistema Bancário]<img src="imagens/UML_diagrama.png">
-
+![Diagrama UML do Sistema Bancário](imagens/UML_diagrama.png)
 
 ## Estrutura de Classes Principais
 
@@ -84,18 +83,13 @@ Requisitos Técnicos Atendidos
  Menu interativo atualizado para objetos
  Persistência simples entre execuções
 
-
-## Exemplos de Execução
-
-### Criação de Cliente (opção `nu`)
-![Criação cliente]<img src="imagens/criacaocliente.png"
-
-### Operação de Depósito (opção `d`)
-![Depósito Realizado]<img src="imagens/deposito.png"
-
-### Extrato Completo (opção `e`)
-![Extrato com Histórico e Saldo]<img src="imagens/Extrato.png"
-
+Exemplos de Execução
+Criação de Cliente (opção nu)
+<img src="imagens/criacaocliente.png" alt="Criação de Cliente">
+Operação de Depósito (opção d)
+<img src="imagens/deposito.png" alt="Depósito Realizado">
+Extrato Completo (opção e)
+<img src="imagens/Extrato.png" alt="Extrato com Histórico e Saldo">
 Próximas Possibilidades de Evolução
 
 Suporte a múltiplas contas por cliente com seleção interativa
