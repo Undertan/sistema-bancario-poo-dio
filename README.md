@@ -67,12 +67,13 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
  **Python 3.8 ou superior*
 
 **Clone ou baixe o repositório*
-git clone https://github.com/Undertan/sistema-bancario-poo-dio.git
-cd sistema-bancario-poo-dio   # ← corrigido o nome da pasta (sem "desafio-" na frente)
+- git clone https://github.com/Undertan/sistema-bancario-poo-dio.git
+- cd sistema-bancario-poo-dio   # ← corrigido o nome da pasta (sem "desafio-" na frente)
 
 # Executar
 python sistema_bancario_poo.py
-Requisitos Técnicos Atendidos
+
+**Requisitos Técnicos Atendidos**
 
  Uso de classes e objetos no lugar de dicionários
  Fidelidade total ao diagrama UML
@@ -85,32 +86,32 @@ Requisitos Técnicos Atendidos
 
 ## Exemplos de Execução
 
- Criação de Cliente (opção nu)
+ *Criação de Cliente (opção nu)*
 
 ![Criação de Cliente](imagens/criacaocliente.png)
 
 
- Operação de Depósito (opção d)
+*Operação de Depósito (opção d)*
 
 ![Operação de Depósito](imagens/deposito.png)
 
 
- Extrato Completo (opção e)
+ *Extrato Completo (opção e)*
 
 ![Extrato Completo](imagens/Extrato.png)
 
 
- Próximas Possibilidades de Evolução
+ **Próximas Possibilidades de Evolução**
 
-Suporte a múltiplas contas por cliente com seleção interativa
-Transferência entre contas
-Autenticação com senha/PIN
-Tipo de conta Poupança
-Uso de banco de dados relacional (SQLite)
-Testes unitários (pytest)
-Interface CLI mais rica (rich / textual)
+-Suporte a múltiplas contas por cliente com seleção interativa
+-Transferência entre contas
+-Autenticação com senha/PIN
+-Tipo de conta Poupança
+-Uso de banco de dados relacional (SQLite)
+-Testes unitários (pytest)
+-Interface CLI mais rica (rich / textual)
 
-Projeto entregue como parte do desafio "Modelando o Sistema Bancário em POO com Python" – Trilha Python DIO.
-Desenvolvido por: Leandro
-Localização: Parauapebas, PA
-Data: Março/2026
+***Projeto entregue como parte do desafio "Modelando o Sistema Bancário em POO com Python" – Trilha Python DIO.***
+***Desenvolvido por: Leandro***
+***Localização: Parauapebas, PA***
+***Data: Março/2026***
