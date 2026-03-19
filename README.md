@@ -27,7 +27,7 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 ### Diagrama de Classes (UML fornecido no desafio)
 
-![Diagrama UML do Sistema Bancário](imagens/UML_diagrama.png)
+<image-card alt="Diagrama UML do Sistema Bancário" src="imagens/UML_diagrama.png" ></image-card>
 
 ## Estrutura de Classes Principais
 
@@ -69,7 +69,7 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 # Clone ou baixe o repositório
 git clone https://github.com/Undertan/sistema-bancario-poo-dio.git
-cd desafio-sistema-bancario-poo-dio
+cd sistema-bancario-poo-dio   # ← corrigido o nome da pasta (sem "desafio-" na frente)
 
 # Executar
 python sistema_bancario_poo.py
@@ -85,15 +85,16 @@ Requisitos Técnicos Atendidos
 
 Exemplos de Execução
 
+
+
 Criação de Cliente (opção nu)
-![Criação de cliente](imagens/criacaocliente.png)
+<image-card alt="Criação de cliente" src="imagens/criacaocliente.png" ></image-card>
 
 Operação de Depósito (opção d)
-![Operação de Depósito](imagens/deposito.png)
+<image-card alt="Operação de Depósito" src="imagens/deposito.png" ></image-card>
 
 Extrato Completo (opção e)
-![Extrato Completo](imagens/Extrato.png)
-
+<image-card alt="Extrato Completo" src="imagens/Extrato.png" ></image-card>
 
 Próximas Possibilidades de Evolução
 
