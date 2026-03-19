@@ -63,10 +63,10 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 ## Como Executar
 
-# Pré-requisitos
-# Python 3.8 ou superior
+ **Pré-requisitos**
+ **Python 3.8 ou superior*
 
-# Clone ou baixe o repositório
+**Clone ou baixe o repositório*
 git clone https://github.com/Undertan/sistema-bancario-poo-dio.git
 cd sistema-bancario-poo-dio   # ← corrigido o nome da pasta (sem "desafio-" na frente)
 
@@ -85,22 +85,22 @@ Requisitos Técnicos Atendidos
 
 ## Exemplos de Execução
 
-# Criação de Cliente (opção nu)
+ Criação de Cliente (opção nu)
 
-![Criação de Cliente](imagens/criacaocliente.pngpng)
+![Criação de Cliente](imagens/criacaocliente.png)
 
 
-# Operação de Depósito (opção d)
+ Operação de Depósito (opção d)
 
 ![Operação de Depósito](imagens/deposito.png)
 
 
-# Extrato Completo (opção e)
+ Extrato Completo (opção e)
 
 ![Extrato Completo](imagens/Extrato.png)
 
 
-# Próximas Possibilidades de Evolução
+ Próximas Possibilidades de Evolução
 
 Suporte a múltiplas contas por cliente com seleção interativa
 Transferência entre contas
