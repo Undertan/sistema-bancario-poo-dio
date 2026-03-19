@@ -85,11 +85,12 @@ Requisitos Técnicos Atendidos
 
 Exemplos de Execução
 Criação de Cliente (opção nu)
-<img src="imagens/criacaocliente.png" alt="Criação de Cliente">
+![Criação de cliente](imagens/criacaocliente.png)
 Operação de Depósito (opção d)
-<img src="imagens/deposito.png" alt="Depósito Realizado">
+![Operação de Depósito](imagens/deposito.png)
 Extrato Completo (opção e)
-<img src="imagens/Extrato.png" alt="Extrato com Histórico e Saldo">
+![Extrato Completo](imagens/Extrato.png)
+
 Próximas Possibilidades de Evolução
 
 Suporte a múltiplas contas por cliente com seleção interativa
