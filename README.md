@@ -88,13 +88,13 @@ Requisitos Técnicos Atendidos
 ## Exemplos de Execução
 
 ### Criação de Cliente (opção `nu`)
-![Criação cliente]<img src="imagens/criacaocliente.png">
+![Criação cliente]<img src="imagens/criacaocliente.png"
 
 ### Operação de Depósito (opção `d`)
-![Depósito Realizado]<img src="imagens/deposito.png">
+![Depósito Realizado]<img src="imagens/deposito.png"
 
 ### Extrato Completo (opção `e`)
-![Extrato com Histórico e Saldo]<img src="imagens/Extrato.png">
+![Extrato com Histórico e Saldo]<img src="imagens/Extrato.png"
 
 Próximas Possibilidades de Evolução
 
