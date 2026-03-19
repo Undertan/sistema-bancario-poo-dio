@@ -27,7 +27,7 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 ### Diagrama de Classes (UML fornecido no desafio)
 
-<image-card alt="Diagrama UML do Sistema Bancário" src="imagens/UML_diagrama.png" ></image-card>
+![Diagrama de Classe](imagens/UML_diagrama.png)
 
 ## Estrutura de Classes Principais
 
@@ -81,22 +81,19 @@ Requisitos Técnicos Atendidos
  Herança correta (PessoaFisica, ContaCorrente)
  Métodos do UML: realizar_transacao, adicionar_conta, nova_conta, adicionar_transacao, etc.
  Menu interativo atualizado para objetos
- Persistência simples entre execuções
-
-Exemplos de Execução
+ Persistência simples entre execuções   
 
 
+## Exemplos de Execução
 
 Criação de Cliente (opção nu)
-<image-card alt="Criação de cliente" src="imagens/criacaocliente.png" ></image-card>
-
+![Criação de Cliente](imagens/criacaocliente.pngpng)
 Operação de Depósito (opção d)
-<image-card alt="Operação de Depósito" src="imagens/deposito.png" ></image-card>
-
+![Operação de Depósito](imagens/deposito.png)
 Extrato Completo (opção e)
-<image-card alt="Extrato Completo" src="imagens/Extrato.png" ></image-card>
+![Extrato Completo](imagens/Extrato.png)
 
-Próximas Possibilidades de Evolução
+#Próximas Possibilidades de Evolução
 
 Suporte a múltiplas contas por cliente com seleção interativa
 Transferência entre contas
