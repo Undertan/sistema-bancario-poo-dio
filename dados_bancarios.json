@@ -1,0 +1,78 @@
+{
+    "clientes": [
+        {
+            "nome": "Leandro Sakamoto",
+            "data_nascimento": "15-08-2001",
+            "cpf": "12345678900",
+            "endereco": "Campo Belo, 27 - São Paulo"
+        },
+        {
+            "nome": "Undertan Rin",
+            "data_nascimento": "13-07-2002",
+            "cpf": "00000000000",
+            "endereco": "Jardim bonito, 26 - São Paulo"
+        }
+    ],
+    "contas": [
+        {
+            "numero": 1,
+            "agencia": "0001",
+            "saldo": 175.75,
+            "limite": 500,
+            "limite_saques": 3,
+            "cpf_titular": "12345678900",
+            "historico": [
+                {
+                    "tipo": "Deposito",
+                    "valor": 250.75,
+                    "data": "19/03/2026 15:32:54"
+                },
+                {
+                    "tipo": "Saque",
+                    "valor": 100.0,
+                    "data": "19/03/2026 15:33:20"
+                },
+                {
+                    "tipo": "Deposito",
+                    "valor": 50.0,
+                    "data": "19/03/2026 15:33:53"
+                },
+                {
+                    "tipo": "Saque",
+                    "valor": 25.0,
+                    "data": "19/03/2026 15:34:04"
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "agencia": "0001",
+            "saldo": 365.0,
+            "limite": 500,
+            "limite_saques": 3,
+            "cpf_titular": "00000000000",
+            "historico": [
+                {
+                    "tipo": "Deposito",
+                    "valor": 500.0,
+                    "data": "19/03/2026 15:58:47"
+                },
+                {
+                    "tipo": "Saque",
+                    "valor": 240.0,
+                    "data": "19/03/2026 15:59:06"
+                },
+                {
+                    "tipo": "Deposito",
+                    "valor": 450.0,
+                    "data": "19/03/2026 15:59:19"
+                },
+                {
+                    "tipo": "Saque",
+                    "valor": 345.0,
+                    "data": "19/03/2026 15:59:35"
+                }
+            ]
+        }
+    ]
+}
