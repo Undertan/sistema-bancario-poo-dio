@@ -68,7 +68,7 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 # Python 3.8 ou superior
 
 # Clone ou baixe o repositório
-git clone https://github.com/SEU_USUARIO/desafio-sistema-bancario-poo-dio.git
+git clone https://github.com/Undertan/sistema-bancario-poo-dio.git
 cd desafio-sistema-bancario-poo-dio
 
 # Executar
@@ -84,12 +84,16 @@ Requisitos Técnicos Atendidos
  Persistência simples entre execuções
 
 Exemplos de Execução
+
 Criação de Cliente (opção nu)
 ![Criação de cliente](imagens/criacaocliente.png)
+
 Operação de Depósito (opção d)
 ![Operação de Depósito](imagens/deposito.png)
+
 Extrato Completo (opção e)
 ![Extrato Completo](imagens/Extrato.png)
+
 
 Próximas Possibilidades de Evolução
 
