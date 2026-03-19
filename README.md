@@ -63,7 +63,6 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 ## Como Executar
 
-```bash
 # Pré-requisitos
 # Python 3.8 ou superior
 
