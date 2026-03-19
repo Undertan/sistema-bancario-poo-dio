@@ -27,9 +27,8 @@ Transformar a versão procedural (baseada em dicionários e funções) em uma so
 
 ### Diagrama de Classes (UML fornecido no desafio)
 
-![Diagrama UML do Sistema Bancário](UML_diagrama.png)
+![Diagrama UML do Sistema Bancário]<img src="imagens/UML_diagrama.png">
 
-*(Adicione a imagem do diagrama UML original do desafio na pasta do projeto e renomeie para `UML_diagrama.png`)*
 
 ## Estrutura de Classes Principais
 
@@ -89,13 +88,13 @@ Requisitos Técnicos Atendidos
 ## Exemplos de Execução
 
 ### Criação de Cliente (opção `nu`)
-![Criação cliente]<img src="imagens/criacaocliente.png"
+![Criação cliente]<img src="imagens/criacaocliente.png">
 
 ### Operação de Depósito (opção `d`)
-![Depósito Realizado]<img src="imagens/deposito.png"
+![Depósito Realizado]<img src="imagens/deposito.png">
 
 ### Extrato Completo (opção `e`)
-![Extrato com Histórico e Saldo]<img src="imagens/Extrato.png"
+![Extrato com Histórico e Saldo]<img src="imagens/Extrato.png">
 
 Próximas Possibilidades de Evolução
 
